@@ -1,0 +1,25 @@
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    box-shadow:0px 0px 20px rgb(0, 0, 0);
+    font-weight: bolder;
+}
+input{
+    
+    margin: 20 px;
+    padding: 7px;
+    box-shadow: rgb(5, 67, 69);
+    text-align: center;
+
+
+}
+#hh{
+    background-color: gray;
+
+}
+form{
+    text-align: center;
+    gap: 10px;
+}
